@@ -95,9 +95,6 @@ mov dl,34
 call gotoxy
 mov edx,OFFSET str4
 call writestring
-mov dh,14
-mov dl,34
-call gotoxy
 
 mov dh,16
 mov dl,34
@@ -971,5 +968,3 @@ ret
 play endp
 
 end main
-Adil.txt
-Displaying Adil.txt.
