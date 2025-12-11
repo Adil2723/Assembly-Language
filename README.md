@@ -52,4 +52,3 @@ Course: **COAL – Computer Organization & Assembly Language**
 
 ---
 
-## 📦 Project Files
